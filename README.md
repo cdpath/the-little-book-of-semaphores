@@ -6,6 +6,10 @@ copyright: Allen B. Downey
 
 # The Little Book of Semaphores 中译
 
+|Title|Filename|Draft|Revise|
+|---|---|---|---|
+|Perface|[00perface.md](00perface.md)|2023-05-13|-|
+
 
 
 ## License
